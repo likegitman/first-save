@@ -1,13 +1,13 @@
 h1{
     text-decoration-line: none;
-    border-bottom:10px solid lightgray;
+    border-bottom:2px solid black;
     margin: 0;
     padding: 20px;
     color: black;
 }
 ul{
     font-size: 25px;
-    border-right: 7px solid lightgray;
+    border-right: 2px solid black;
     width: 210px;
     padding: 20px;
     margin: 0;
